@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Je vis près de Rennes, en Bretagne. J’ai choisi le développement web car j’apprécie les défis intellectuels et la résolution de problèmes. Consciencieuse et rigoureuse dans mon travail, je cherche avant tout un poste me permettant d’acquérir de l’expérience et de travailler auprès d’autres personnes passionnées.</p>
+<em align="center">Je vis près de Rennes, en Bretagne. J’ai choisi le développement web car j’apprécie les défis intellectuels et la résolution de problèmes. Consciencieuse et rigoureuse dans mon travail, je cherche avant tout un poste me permettant d’acquérir de l’expérience et de travailler auprès d’autres personnes passionnées.</em>
 
 ###
 
@@ -106,7 +106,7 @@
   <a href="http://www.linkedin.com/in/elodie-leport--bzh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="elodie.leport@hotmail.fr" target="_blank">
+  <a href="mailto:elodie.leport@hotmail.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -118,9 +118,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Yin-Lo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Yin-Lo&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###

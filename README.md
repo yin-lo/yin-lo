@@ -124,4 +124,3 @@
 
 <img src="https://github.com/yin-lo/yin-lo/blob/output/snake.svg" alt="" />
 
-![snake gif](https://github.com/yin-lo/yin-lo/blob/output/snake.svg)
